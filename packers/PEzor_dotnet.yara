@@ -1,4 +1,4 @@
-rule PEzor_x64_Release {
+rule PEzor_dotnet {
     meta:
         author = "Still"
         class = "GA"
