@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Azura YARA 👋</h1>
+<h1 align="center">Azura YARA</h1>
 <p>
   <a href="#" target="_blank">
     <img alt="License: CC0" src="https://img.shields.io/badge/License-CC0-yellow.svg" />
@@ -16,11 +16,12 @@
 
 * Website: https://stillu.cc
 * Twitter: [@StillAzureH](https://twitter.com/StillAzureH)
-* Github: [@Still34](https://github.com/Still34)
+* GitHub: [@Still34](https://github.com/Still34)
+
+## Usage
+
+Since these rules are my personal hunting rules that are used or written during my free time (i.e., they do not belong to any companies), the rules are CC0, and you may use them however you wish. That being said, if any of these rules did help you in any shape or form, please star this project and or consider crediting me in the work. Thanks!
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
