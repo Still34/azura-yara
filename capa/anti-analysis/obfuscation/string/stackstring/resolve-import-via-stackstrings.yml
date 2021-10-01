@@ -1,0 +1,12 @@
+rule:
+  meta:
+    name: resolve import via stackstrings at runtime
+    namespace: anti-analysis/obfuscation/string/stackstring 
+    author: still@teamt5.org
+    scope: function
+    examples:
+      - 64E9F62840DB2F65FC717CFAF99081F9:0x10025680
+  features:
+    - and:
+      - match: contain obfuscated stackstrings
+      - api: GetProcAddress
