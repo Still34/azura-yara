@@ -8,5 +8,5 @@ rule:
       - 64E9F62840DB2F65FC717CFAF99081F9:0x10025680
   features:
     - and:
-      - match: contain obfuscated stackstrings
+      - characteristic: stack string
       - api: GetProcAddress
