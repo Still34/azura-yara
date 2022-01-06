@@ -1,6 +1,7 @@
 rule HackTool_SharMapExec {
     meta:
-        author = "Still"
+        author = "Still34"
+        license = "GPL-3.0"
         component_name = "SharpMapExec"
         create_date = "2021-12-01"
         description = "attempts to match instructions/strings found in SharpMapExec"

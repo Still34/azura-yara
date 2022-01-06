@@ -1,6 +1,7 @@
 rule Suspicious_PaExec {
     meta:
-        author = "Still"
+        author = "Still34"
+        license = "GPL-3.0"
         component_name = "PaExec"
         create_date = "2021-12-07"
         description = "attempts to match the open-source reimplementation of PsExec, PaExec"

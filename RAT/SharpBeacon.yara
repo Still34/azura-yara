@@ -1,6 +1,7 @@
 rule SharpBeacon {
     meta:
-        author = "Still"
+        author = "Still34"
+        license = "GPL-3.0"
         component_name = "SharpBeacon"
         create_date = "2021-11-10"
         description = "attempts to match the open-source .NET reimplementation of CobaltStrike Beacon"
@@ -52,7 +53,8 @@ rule SharpBeacon {
 }
 rule SharpStager {
     meta:
-        author = "Still"
+        author = "Still34"
+        license = "GPL-3.0"
         component_name = "SharpBeacon"
         create_date = "2021-11-10"
         description = "attempts to match the open-source .NET reimplementation of CobaltStrike Stager"

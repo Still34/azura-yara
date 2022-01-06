@@ -1,6 +1,7 @@
 rule HackTool_SharpSploit {
     meta:
-        author = "Still"
+        author = "Still34"
+        license = "GPL-3.0"
         component_name = "SharpSploit"
         create_date = "2021-11-08"
         description = "attempts to match the strings found in the SharpSploit toolkit"

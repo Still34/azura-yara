@@ -1,6 +1,7 @@
 rule HackTool_GoMimikatz {
   	meta:
-		author = "Still"
+        author = "Still34"
+        license = "GPL-3.0"
 		component_name = "Mimikatz"
 		create_date = "2021-12-17"
 		// https://github.com/vyrus001/go-mimikatz.

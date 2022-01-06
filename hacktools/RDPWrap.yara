@@ -1,6 +1,7 @@
 rule HackTool_RDPWrap {
   meta:
-    author = "Still"
+        author = "Still34"
+        license = "GPL-3.0"
     component_name = "RDPWrap"
     create_date = "2021-12-16"
     description = "attempts to match the strings found in RDPWrap"

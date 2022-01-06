@@ -1,6 +1,7 @@
 rule Amber_Standard_x64 {
     meta:
-        author = "Still"
+        author = "Still34"
+        license = "GPL-3.0"
         component_name = "Amber"
         create_date = "2021-08-06"
         description = "attempts to match an x64 executable that has been packed with the -b parameter with Amber"

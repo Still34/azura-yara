@@ -1,6 +1,7 @@
 rule Suspicious_ProcDump {
     meta:
-        author = "Still"
+        author = "Still34"
+        license = "GPL-3.0"
         component_name = "ProcDump"
         description = "attempt to match Sysinternals ProcDump"
         last_modified = "2021-04-19"

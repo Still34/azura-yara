@@ -1,6 +1,7 @@
 rule HackTool_Inceptor {
     meta:
-        author = "Still"
+        author = "Still34"
+        license = "GPL-3.0"
         component_name = "Inceptor"
         create_date = "2021-10-26"
         description = "attempts to match the instructions and strings used in the Inceptor red teaming toolkit"

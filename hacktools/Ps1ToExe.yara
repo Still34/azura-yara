@@ -1,6 +1,7 @@
 rule HackTool_PS1ToExe {
     meta:
-        author = "Still"
+        author = "Still34"
+        license = "GPL-3.0"
         component_name = "PS1ToExe"
         create_date = "2021-11-23"
         description = "attempts to match Faith Kodak's PS1 to Exe PowerShell script loader"
