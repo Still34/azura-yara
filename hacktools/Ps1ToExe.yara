@@ -8,9 +8,6 @@ rule HackTool_PS1ToExe {
         last_modified = "2021-01-05"
         // https://f2ko.de/programme/ps1-to-exe/
         sample_hash = "b75a4029a1166ad095adc63282bf6d08"
-        triage_score = 6
-        triage_tags = "faith_kodak"
-        triage_description = "Uses Faith Kodak's PS1 to Exe PowerShell script loader."
     strings:
         $pe_import_section = ".code"
 	/*
